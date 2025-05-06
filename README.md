@@ -3,7 +3,7 @@ To visualize and analyse sales performance and profitability across product cate
 ## Project Objective
 To visualize and analyse sales performance and profitability across product categories as well as identify declining trends, evaluate order behaviour, and optimize inventory for improved business outcomes.
 ## Dataset used
-- <a href = “https://github.com/Sammuun/Sales-Performance-Dashboard/blob/main/Sales%20Performance%20Dashboard/Sales.xlsx”> Dataset</a>
+- <a href=“https://github.com/Sammuun/Sales-Performance-Dashboard/blob/main/Sales%20Performance%20Dashboard/Sales.xlsx”> Dataset</a>
 
 ## Questions (KPIs)
 -	What are total sales, total profit and total quantity sold for each region and product?
@@ -22,7 +22,7 @@ To visualize and analyse sales performance and profitability across product cate
 ![Screenshot 2025-05-05 121700](https://github.com/user-attachments/assets/5e95eef1-b2a4-49fb-a84a-6b493bb7f93e)
 
 ## Project Insight
-The dataset captures total sales, profit, and order quantity for 2009,2010,2011 and 2012 and compared each to its previous year (PY). It includes weekly sales/profit trends, performance by subcategory, and highlights key shifts in top-performing and underperforming products—providing a comprehensive view of commercial performance and operational health
+The dataset captures total sales, total profit, and total order quantity in 2009, 2010, 2011 and 2012 and compared each year to its previous year (PY). It includes weekly sales/profit trends, performance by subcategory, and highlights key shifts in top-performing and underperforming products—providing a comprehensive view of commercial performance and operational health
 ## Final Conclusion:
 The project focuses on identifying significant declines in sales and profit in year-over-year, analysing which product subcategories are generating losses (e.g., Tables, Office Machines), monitoring order quantity trends, and revealing weekly fluctuations in performance to support sales planning and strategic inventory adjustments.
 
