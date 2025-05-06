@@ -3,7 +3,7 @@ To visualize and analyse sales performance and profitability across product cate
 ## Project Objective
 To visualize and analyse sales performance and profitability across product categories as well as identify declining trends, evaluate order behaviour, and optimize inventory for improved business outcomes.
 ## Dataset used
-- <a href=“https://github.com/Sammuun/Sales-Performance-Dashboard/blob/main/Sales%20Performance%20Dashboard/Sales.xlsx”> Dataset</a>
+- <a href="https://github.com/Sammuun/Sales-Performance-Dashboard/blob/main/Sales%20Performance%20Dashboard/Sales.xlsx"> Dataset</a>
 
 ## Questions (KPIs)
 -	What are total sales, total profit and total quantity sold for each region and product?
